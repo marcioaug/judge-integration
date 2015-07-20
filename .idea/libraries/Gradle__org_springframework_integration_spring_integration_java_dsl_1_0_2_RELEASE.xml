@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.integration:spring-integration-java-dsl:1.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-java-dsl/1.0.2.RELEASE/a93c7d546f0d4932ee42f10bdac444815153c1d3/spring-integration-java-dsl-1.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-java-dsl/1.0.2.RELEASE/11714d1773b3eef176a0027d0e3a86b4f16d0c8c/spring-integration-java-dsl-1.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
